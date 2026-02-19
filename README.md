@@ -13,29 +13,23 @@ positives. Simulated security events to validate SIEM alerts.
 
 <p align="center">
 Vitual home lab on VMware: <br/>
-<img src="https://i.imgur.com/3dWUmm5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VjlI22U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Windows virtual machine:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OZt3LHc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Ubuntu log: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ubuntu Virtual Machine: <br/>
+<img src="https://i.imgur.com/xw3LVcL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Windows log:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bB9NjPV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ubuntu log:  <br/>
+<img src="https://i.imgur.com/VRfgMNW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
