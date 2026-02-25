@@ -9,6 +9,15 @@ log analysis, alerting, and incident visibility. Created custom alert rules, and
 positives. Simulated security events to validate SIEM alerts.
 <br />
 
+<h2>Utilities Used</h2>
+
+- <b>PowerShell</b> 
+- <b>WorkStation Pro 17</b>
+- <b>Windows 10</b>
+- <b>Ubuntu</b>
+- <b>Wazuh</b>
+- <b>Parrot OS</b>
+
 <h2>Lab walk-through:</h2>
 
 <p align="center">
@@ -29,7 +38,7 @@ Windows log:  <br/>
 <br />
 <br />
 Ubuntu log:  <br/>
-<img src="https://i.imgur.com/VRfgMNW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dxhOdYg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
